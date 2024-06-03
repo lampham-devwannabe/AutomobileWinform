@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB1_AutomobileWinform", "LAB1_AutomobileWinform\LAB1_AutomobileWinform.csproj", "{90B92080-E5A1-44A7-8D39-2B66055D4644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B92080-E5A1-44A7-8D39-2B66055D4644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B92080-E5A1-44A7-8D39-2B66055D4644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B92080-E5A1-44A7-8D39-2B66055D4644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B92080-E5A1-44A7-8D39-2B66055D4644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09D69EC-BC8F-4208-8C67-71A38CA23B02}
+	EndGlobalSection
+EndGlobal

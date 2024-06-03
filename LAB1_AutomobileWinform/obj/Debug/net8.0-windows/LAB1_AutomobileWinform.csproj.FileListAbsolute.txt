@@ -1,0 +1,17 @@
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\bin\Debug\net8.0-windows\LAB1_AutomobileWinform.exe
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\bin\Debug\net8.0-windows\LAB1_AutomobileWinform.deps.json
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\bin\Debug\net8.0-windows\LAB1_AutomobileWinform.runtimeconfig.json
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\bin\Debug\net8.0-windows\LAB1_AutomobileWinform.dll
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\bin\Debug\net8.0-windows\LAB1_AutomobileWinform.pdb
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.frmCarDetails.resources
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.frmCarManagement.resources
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.csproj.GenerateResource.cache
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.AssemblyInfoInputs.cache
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.AssemblyInfo.cs
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.dll
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\refint\LAB1_AutomobileWinform.dll
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.pdb
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\LAB1_AutomobileWinform.genruntimeconfig.cache
+C:\Workspace\dotnet\LAB1_AutomobileWinform\LAB1_AutomobileWinform\obj\Debug\net8.0-windows\ref\LAB1_AutomobileWinform.dll
